@@ -27,6 +27,20 @@
         "destination": "colors.xml",
         "format": "android/colors"
       }]
+    },
+    "js": {
+      "transformGroup": "js",
+      "files": [
+        {
+          "format": "javascript/es6",
+          "destination": "colors.js",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
+          }
+        }
+      ]
     }
   }
 }
