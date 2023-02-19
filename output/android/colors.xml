@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+  Do not edit directly
+  Generated on Sun, 19 Feb 2023 12:14:18 GMT
+-->
+<resources>
+  <color name="color_background_page_primary_70">#ff985cff</color>
+  <color name="color_background_page_primary_80">#ffb88fff</color>
+  <color name="color_background_page_primary_90">#ffd8c2ff</color>
+  <color name="color_background_page_primary_100">#fff9f5ff</color>
+  <color name="color_background_page_primary_60">#ff7729ff</color>
+  <color name="color_background_page_primary_50">#ff5a00f5</color>
+  <color name="color_background_page_primary_40">#ff4700c2</color>
+  <color name="color_background_page_primary_30">#ff34008f</color>
+  <color name="color_background_page_primary_20">#ff22005c</color>
+  <color name="color_background_page_primary_10">#ff0f0029</color>
+  <color name="color_background_page_secondary_40">#ff00b3a7</color>
+  <color name="color_background_page_secondary_50">#ff00e6d6</color>
+  <color name="color_background_page_secondary_60">#ff1afff0</color>
+  <color name="color_background_page_secondary_70">#ff4dfff3</color>
+  <color name="color_background_page_secondary_80">#ff80fff7</color>
+  <color name="color_background_page_secondary_90">#ffb3fffa</color>
+  <color name="color_background_page_secondary_100">#ffe5fffd</color>
+  <color name="color_background_page_secondary_30">#ff008077</color>
+  <color name="color_background_page_secondary_20">#ff004d47</color>
+  <color name="color_background_page_secondary_10">#ff001a18</color>
+  <color name="color_background_page_error_40">#ffb30021</color>
+  <color name="color_background_page_error_50">#ffe6002a</color>
+  <color name="color_background_page_error_60">#ffff1a44</color>
+  <color name="color_background_page_error_70">#ffff4d6d</color>
+  <color name="color_background_page_error_80">#ffff8097</color>
+  <color name="color_background_page_error_90">#ffffb3c1</color>
+  <color name="color_background_page_error_100">#ffffe5ea</color>
+  <color name="color_background_page_error_30">#ff800017</color>
+  <color name="color_background_page_error_20">#ff47000d</color>
+  <color name="color_background_page_error_10">#ff1a0005</color>
+  
+</resources>
